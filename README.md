@@ -1,12 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Anirudh Katoch</h1>
-- 👨‍💻 All of my projects are available at [linkedin.com/in/anirudh-katoch-a45ab214a](linkedin.com/in/anirudh-katoch-a45ab214a)
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
-
 - 📫 How to reach me **anirudh.katoch1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/anirudh-katoch-a45ab214a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/anirudh-katoch-a45ab214a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
