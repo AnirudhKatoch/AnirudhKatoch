@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh Katoch</h1>
 - 📫 How to reach me **anirudh.katoch1998@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-katoch-a45ab214a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/anirudh-katoch-a45ab214a" height="30" width="40" /></a>
