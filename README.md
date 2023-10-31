@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Anirudh Katoch</h1>
 - 👨‍💻 All of my projects are available at [linkedin.com/in/anirudh-katoch-a45ab214a](linkedin.com/in/anirudh-katoch-a45ab214a)
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 📫 How to reach me **anirudh.katoch1998@gmail.com**
 
