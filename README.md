@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Katoch</h1>
 - 📫 How to reach me **anirudh.katoch1998@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3MjRyZ285NWgzZXIwb3R2YnQwbXd4dDI1NG12M3Z2a2F3ZzE4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
